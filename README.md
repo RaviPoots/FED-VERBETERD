@@ -88,14 +88,14 @@ Ik ga me focussen op het responsive maken van mijn website
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### Breakdown home pagina: 
+  <img src="readme-images/Breakdown-home.png" width="375px" alt="breakdown van de hele home pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### Breakdown menu pagina: 
+  <img src="readme-images/Breakdown-menu.png" width="375px" alt="breakdown van de hele menu pagina">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### Breakdown hamburger menu: 
+  <img src="readme-images/Breakdown-menu.png" width="375px" alt="breakdown van het hamburger menu">
 
 </details>
 
